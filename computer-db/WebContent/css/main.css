@@ -1,0 +1,105 @@
+html {
+	
+}
+
+header h1 {
+	padding: 0.4em 1.1em;
+	color: white;
+	font-weight: normal;
+	font-size: 24px;
+}
+
+table.computers em {
+	color: #aaa;
+}
+
+table.computers .introduced, table.computers .discontinued {
+	width: 10%;
+	min-width: 100px;
+}
+
+table.computers .company_name {
+	width: 30%;
+	min-width: 300px;
+}
+
+table.computers .header a {
+	
+}
+
+table
+
+ 
+
+a
+
+
+:not
+
+ 
+
+(
+.btn
+
+ 
+
+),
+.table
+
+ 
+
+a
+
+
+:not
+
+ 
+
+(
+.btn
+
+ 
+
+)
+{
+text-decoration
+
+
+:
+
+ 
+
+none
+
+
+;
+}
+center {
+	background-image: url(http://i.imgur.com/4q2Op.gif);
+}
+a.glyphicon{
+	text-decoration:none!important;
+}
+a.glyphicon.glyphicon-plus:hover {
+	color: rgba(41, 255, 0, 0.55);
+	text-decoration: none !important;
+}
+
+.glyphicon.glyphicon-arrow-up:hover {
+	color: blue;
+	text-decoration: none !important;
+}
+
+.glyphicon.glyphicon-arrow-down:hover {
+	color: blue;
+	text-decoration: none !important;
+}
+
+span.glyphicon.glyphicon-trash:hover {
+	color: red;
+	text-decoration: none !important;
+}
+
+span.glyphicon.glyphicon-edit:hover {
+	color: green;
+}
