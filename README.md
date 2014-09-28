@@ -6,7 +6,8 @@ La muraille de machines is a JEE based webservice that serves access to a databa
 
 > This is a school project for EPF - Graduate school of engineering.
 
- ##Fonctionnalités minimales
+##Fonctionnalités minimale
+
     * Lister les ordinateurs à partir de la BDD
     * Ajouter un ordinateur
     * Proposer une structure avec DAO, Service et controleur
